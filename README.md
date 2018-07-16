@@ -48,7 +48,7 @@ You should use protocol **https** instead of **http** to the image,which is not 
 ## Uninstall 卸载
 
     Set the config  {"background.enabled": false}  in settings.json,then uninstall the plugin.
-    在 settings.json 中设置 {"background.enabled": false} ，然后再删除插件。如果直接删除插件会有遗留，就需要重装vscode了。
+    在 settings.json 中设置 {"background.enabled": false} ，然后再删除插件。如果直接删除插件会有遗留，就需要重装vscode了，或者重新安装该插件，并按照正确的卸载步骤进行卸载。
 
 ### Q&A 常见问题:
 
